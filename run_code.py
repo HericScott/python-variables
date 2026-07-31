@@ -12,3 +12,4 @@ print('Good Afternoon, ' + NAME)
 print('Good Evening, ' + NAME)
 
 
+print(min('love', 'hate', 'pure', 'stress',))
