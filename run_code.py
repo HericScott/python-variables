@@ -13,3 +13,4 @@ print('Good Evening, ' + NAME)
 
 
 print(min('love', 'hate', 'pure', 'stress',))
+print(max('love', 'hate', 'pure', 'stress',))
